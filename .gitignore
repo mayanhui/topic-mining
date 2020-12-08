@@ -1,0 +1,16 @@
+*.log
+.bmp
+.mp4
+.sql
+__pycache__
+test.py
+.DS_Store
+.vscode
+.idea/
+*.iml
+*.pyc
+logs
+.out
+.csv
+.bak
+.jpg
